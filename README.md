@@ -1,6 +1,6 @@
 # Analysis of the situation with the accessibility of schools Podolsky district of the Kyiv city
 
-Yupyter Notebook "**Аналіз доступності шкіл у Подільському районі м. Києва.ipynb**" contains the full way of the analysis of distances from houses to administrative distributed schools, median value of the distances and distances' distribution table. 
+Jupyter Notebook "**Аналіз доступності шкіл у Подільському районі м. Києва.ipynb**" contains the full way of the analysis of distances from houses to administrative distributed schools, median value of the distances and distances' distribution table. 
 
 Data folders
 ----
