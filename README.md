@@ -4,10 +4,10 @@ Yupyter Notebook "**Аналіз доступності шкіл у Поділь
 
 Data folders
 ----
-'**html**' contains original table with houses adresses and schools names;
-'**csv**' contains the program's each step datasets;
-'**shp**' contains the shape-file for import to the QGis;
-'**qgis**' contains the ready-to-open QGis layer file with points of a houses distributed on the map; red marker if school is in 800+ m from house and blue marker if school is in 800- m from house.
+- '**html**' contains original table with houses adresses and schools names;
+- '**csv**' contains the program's each step datasets;
+- '**shp**' contains the shape-file for import to the QGis;
+- '**qgis**' contains the ready-to-open QGis layer file with points of a houses distributed on the map; red marker if school is in 800+ m from house and blue marker if school is in 800- m from house.
 
 Requirements
 ----
